@@ -1,2 +1,76 @@
-# web-programming-lab-projekt
-Beschreibung Web Programming Lab Projekt
+# Web Programming Lab Projekt
+
+Das Projekt im Web Programming Lab ermöglicht es, die gelernten Inhalte aus dem Unterricht direkt anwenden zu können.
+
+## Organisatorisches
+
+* Das Projekt wird in **Einzelarbeit** erarbeitet.
+* Sie können eigene Projekt-Vorschläge bringen oder das vorgeschlagene Projekt "Technologie-Radar" umsetzen.
+
+## Projekt-Ergebnisse
+
+Folgende Ergebnisse werden aus der Projektarbeit erwartet:
+
+* Architekturdokumentation (3 - 5 Seiten)
+* Fazit & Reflexion (1 Seite)
+* Arbeitsjournal
+* Softwareartefakte
+* Präsentationsartefakte (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
+
+### Architekturdokumentation
+
+Wir empfehlen die Architekturdokumentation nach [arc42](https://www.arc42.de/overview/) zu strukturieren. Insbesondere den Kapitel 4 - 10 sollten dabei Beachtung geschenkt werden. Versuchen Sie sich kurz und prägnant zu halten.
+
+### Fazit & Reflexion
+
+Im Ergebnis "Fazit & Reflexion" machen Sie die Retrospektive über Ihr Projekt. Dabei sollten Sie die folgenden Fragen beantworten:
+
+* Was ist gut gelaufen?
+* Wo lagen die Herausforderungen?
+* Was könnten Sie das nächste Mal anders resp. besser machen?
+
+### Arbeitsjournal
+
+Im Arbeitsjournal erfassen Sie die Tätigkeiten, die Sie für das Projekt geleistet haben. Es dient dazu, zu prüfen ob Sie den Stunden-Leistungsumfang für das Modul erreicht haben.
+
+Folgendes sollte es mindestens beinhalten:
+
+* Datum
+* Anzahl Stunden
+* Tätigkeit(en) -> inkl. Total am Schluss
+
+### Softwareartefakte
+
+Geben Sie die Software als git Repository ab (z.B. Link auf GitHub, GitLab oder Bitbucket Git Repository).
+
+Versuchen Sie am Ende des Projektes laufende Software zu präsentieren. 
+
+Falls Ihnen dies ggf. nicht gelingt, halten Sie das "Warum" im Fazit & Reflexion fest.
+
+### Präsentationsartefakte
+
+Zu den Ergebnissen gehören die Präsentationsartefakte (i.d.R. Slides) ebenfalls dazu.
+
+
+## Präsentation
+
+Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Der Fokus 
+
+## Bewertung
+
+Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentation (30%).
+
+### Projekt-Ergebnisse
+
+* Architekturdokumentation 35%
+  * I
+* Fazit & Reflexion 20%
+* Arbeitsjournal 10%
+* Softwareartefakte 35%
+
+### Präsentation
+
+* Aufbau, Verständlichkeit 30%
+* Präsentationsartefakte 30% (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
+* Einhaltung der Timebox 5 Minuten 10%
+* Beantwortung Fragen 30%
