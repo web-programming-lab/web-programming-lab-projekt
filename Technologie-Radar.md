@@ -20,7 +20,7 @@ Sie werden als Software-Architekt und Software Engineer damit beauftragt die fol
 
 Als CTO oder Tech-Lead kann ich mich an der Technologie-Radar-Administration anmelden, damit ich Technologien im Technologie-Radar verwalten kann.
 
-**Akzeptanzkritieren**
+**Akzeptanzkriterien**
 
 * Mittels korrektem Benutzername (E-Mail Adresse) und korrektem Passwort gelange ich zur Technologie-Radar-Administration.
 * Mit nicht korrekte Benutzerdaten (Benutzername / Passworter) kann ich mich nicht anmelden.
@@ -30,7 +30,7 @@ Als CTO oder Tech-Lead kann ich mich an der Technologie-Radar-Administration anm
 
 Als CTO kann ich eine neue Technologie erfassen, damit ich diese anschliessend publizieren kann.
 
-**Akzeptanzkritieren**
+**Akzeptanzkriterien**
 
 * Für die Erfassung einer neuen Technologie muss ich folgende Felder angeben können:
     * Name (Muss-Feld)
@@ -52,7 +52,7 @@ Als CTO kann ich eine neue Technologie erfassen, damit ich diese anschliessend p
 
 Als CTO kann ich erfasste, aber noch nicht publizierte, Technologien publizieren, damit diese auf dem Technologie-Radar erscheinen und entsprechned für Mitarbeiter einsehbar werden.
 
-**Akzeptanzkritieren**
+**Akzeptanzkriterien**
 
 * Erfasste, aber noch nicht publizierte Technologien werden speziell gekennzeichnet.
 * Mit Klick auf *Publizieren* können neue Technologien publiziert werden. Bei der Publizierung müssen aber folgende Eingaben gemacht werden:
