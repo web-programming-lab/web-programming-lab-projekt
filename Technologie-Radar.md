@@ -107,3 +107,5 @@ Als Mitarbeiter kann ich im Technologie-Radar-Viewer die Technologien resp. der 
 * Es werden nur publizierte Technologien angezeigt.
 * Technologien werden nach ihren Kategorien (*Techniques*, *Platforms*, *Tools*, *Languages & Frameworks*) strukturiert.
 * Technologien werden nach ihrer Maturität (*Assess*, *Trial*, *Adopt*, *Hold*) strukturiert.
+
+**Bemerkung**: Die Technologien müssen nicht als *Radar* abgebildet werden, sondern können auch tabellarisch dargestellt werden.
