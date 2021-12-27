@@ -51,10 +51,14 @@ Falls Ihnen dies ggf. nicht gelingt, halten Sie das "Warum" im Fazit & Reflexion
 
 Zu den Ergebnissen gehören die Präsentationsartefakte (i.d.R. Slides) ebenfalls dazu.
 
-
 ## Präsentation
 
-Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Der Fokus 
+Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Dabei sollen folgende Punkte abgedeckt werden:
+
+* Vorstellung Fachlichkeit (sofern eigene Applikation, oder Zusatzfunktionen zur vorgeschlagenen Aufgabenstellung)
+* Architektur des Systems
+* Vorgehen / Methodik 
+* Softwareartefakte
 
 ## Bewertung
 
@@ -63,7 +67,6 @@ Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentatio
 ### Projekt-Ergebnisse
 
 * Architekturdokumentation 35%
-  * I
 * Fazit & Reflexion 20%
 * Arbeitsjournal 10%
 * Softwareartefakte 35%
