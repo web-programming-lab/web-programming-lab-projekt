@@ -16,7 +16,7 @@ Falls Sie das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md)
 
 ### Eigener Projekt-Vorschlag
 
-Falls Sie einen eigenen Projekt-Vorschlag haben und diesen im Rahmen vom Modul umsetzen möchten, müssen Sie die Aufgabenbeschreibung wie folgt beschreiben (ca. 1 Seite analog ["Technologie-Radar"](Technologie-Radar.md)):
+Falls Sie einen eigenen Projekt-Vorschlag haben und diesen im Rahmen vom Modul umsetzen möchten, müssen Sie die Aufgabenbeschreibung bis Mittwoch, 18:00, wie folgt beschreiben (ca. 1 Seite analog ["Technologie-Radar"](Technologie-Radar.md)):
 
 * Kontext (ca. 3 - 5 Sätze)
 * Fachlichkeit als User Stories beschrieben (priorisiert nach dem [MoSCoW-Priorisierung](https://de.wikipedia.org/wiki/MoSCoW-Priorisierung))
