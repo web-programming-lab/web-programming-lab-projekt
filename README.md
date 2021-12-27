@@ -1,20 +1,27 @@
 # Web Programming Lab Projekt
 
-Das Projekt im Web Programming Lab ermöglicht es, die gelernten Inhalte aus dem Unterricht direkt anwenden zu können. Der Fokus des Projektes liegt auf die Anwendung von noch nicht bekannten Web Technologien.
+Das Projekt im Modul Web Programming Lab ermöglicht es, die gelernten Inhalte aus dem Unterricht direkt anwenden zu können. Der Fokus des Projektes liegt auf die Anwendung von noch nicht bekannten Web Technologien.
 
 ## Organisatorisches
 
 * Das Projekt wird in **Einzelarbeit** erarbeitet.
 * Sie können eigene Projekt-Vorschläge bringen oder das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen.
 
+### Technologie-Radar
+
+Falls Sie das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen möchten, bringen Sie uns bis Mittwoch, 18:00 folgende Informationen:
+
+* Angedachter Technologie-Stack
+* Ggf. angedachte Abgrenzungen / Änderungen
+
 ### Eigener Projekt-Vorschlag
 
-Falls Sie ein eigener Projekt-Vorschlag haben und diesen im Rahmen vom Modul umsetzen möchten, müssen Sie die Aufgabenbeschreibung wie folgt beschreiben (ca. 1 Seite analog Technologie-Radar):
+Falls Sie einen eigenen Projekt-Vorschlag haben und diesen im Rahmen vom Modul umsetzen möchten, müssen Sie die Aufgabenbeschreibung wie folgt beschreiben (ca. 1 Seite analog ["Technologie-Radar"](Technologie-Radar.md)):
 
 * Kontext (ca. 3 - 5 Sätze)
 * Fachlichkeit als User Stories beschrieben (priorisiert nach dem [MoSCoW-Priorisierung](https://de.wikipedia.org/wiki/MoSCoW-Priorisierung))
-* Geplant einzusetzende Technologien
-* Rahmenbedingungen / Abgrenzungen
+* Angedachter Technologie-Stack
+* Ggf. angedachte Abgrenzungen / Änderungen
 
 ## Projekt-Ergebnisse
 
