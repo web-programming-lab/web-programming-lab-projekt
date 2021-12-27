@@ -5,7 +5,7 @@ Das Projekt im Web Programming Lab ermöglicht es, die gelernten Inhalte aus dem
 ## Organisatorisches
 
 * Das Projekt wird in **Einzelarbeit** erarbeitet.
-* Sie können eigene Projekt-Vorschläge bringen oder das vorgeschlagene Projekt "Technologie-Radar" umsetzen.
+* Sie können eigene Projekt-Vorschläge bringen oder das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen.
 
 ### Eigener Projekt-Vorschlag
 
