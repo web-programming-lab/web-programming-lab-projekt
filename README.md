@@ -72,9 +72,11 @@ Zu den Ergebnissen gehören die Präsentationsartefakte (i.d.R. Slides) ebenfall
 Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Dabei sollen folgende Punkte abgedeckt werden:
 
 * Vorstellung Fachlichkeit (sofern eigene Applikation, oder Zusatzfunktionen zur vorgeschlagenen Aufgabenstellung)
-* Architektur des Systems
+* Architektur des System
 * Vorgehen / Methodik 
 * Softwareartefakte
+
+Für Ihre Präsentation erhalten Sie eine Timebox von fünf Minuten.
 
 ## Bewertung
 
