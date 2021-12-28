@@ -6,6 +6,7 @@ Das Projekt im Modul Web Programming Lab ermöglicht es, die gelernten Inhalte a
 
 * Das Projekt wird in **Einzelarbeit** erarbeitet.
 * Sie können eigene Projekt-Vorschläge bringen oder das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen.
+* Sie sollten ca. 60h in das Projekt investieren (Implementierung, Dokumentation, Präsentation).
 
 ### Technologie-Radar
 
@@ -47,13 +48,14 @@ Im Ergebnis "Fazit & Reflexion" machen Sie die Retrospektive über Ihr Projekt. 
 
 ### Arbeitsjournal
 
-Im Arbeitsjournal erfassen Sie die Tätigkeiten, die Sie für das Projekt geleistet haben. Es dient dazu, zu prüfen ob Sie den Stunden-Leistungsumfang für das Modul erreicht haben.
+Im Arbeitsjournal erfassen Sie die Tätigkeiten, die Sie für das Projekt geleistet haben. Es dient dazu, zu prüfen ob Sie den Stunden-Leistungsumfang (ca. 60h) für das Modul erreicht haben.
 
 Folgendes sollte es mindestens beinhalten:
 
 * Datum
 * Anzahl Stunden
 * Tätigkeit(en) -> inkl. Total am Schluss
+
 
 ### Softwareartefakte
 
