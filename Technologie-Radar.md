@@ -44,7 +44,7 @@ Als CTO kann ich eine neue Technologie erfassen, damit ich diese anschliessend p
     * Beschreibung der Einordnung (Optionales-Feld)
         * z.B. *Without making a judgment of the GitOps technique, we'd like to talk about Argo CD within the scope of deploying and monitoring applications in Kubernetes environments. Based on its ability to automate the deployment of the desired application state in the specified target environments in Kubernetes and our good experience with troubleshooting failed deployments, verifying logs and monitoring deployment status, we recommend you give Argo CD a try. You can even see graphically what is going on in the cluster, how a change is propagated and how pods are created and destroyed in real time.*    
 * Sofern ein Muss-Feld nicht abgefüllt ist, darf die Technologie nicht abgespeichert werden.
-* Neben der den Eingaben müssen folgende Felder Informationen hinterlegt werden, bei der Erfassung einer neuen Technologie
+* Neben den Eingaben müssen folgende Informationen bei der Erfassung einer neuen Technologie hinterlegt werden
     * Informationen zum Erfasser (Link auf Person)
     * Erfassungsdatum
 
@@ -55,7 +55,7 @@ Als CTO kann ich erfasste, aber noch nicht publizierte, Technologien publizieren
 **Akzeptanzkriterien**
 
 * Erfasste, aber noch nicht publizierte Technologien werden speziell gekennzeichnet.
-* Mit Klick auf *Publizieren* können neue Technologien publiziert werden. Bei der Publizierung müssen aber folgende Eingaben gemacht werden:
+* Mit Klick auf *Publizieren* können neue Technologien publiziert werden. Bei der Publizierung müssen folgende Eingaben gemacht werden:
        * Einordnung / Ring (Muss-Feld)
         * z.B. *Trial*
         * Wenn bereits ein Ring hinterlegt ist, wird dieser als Standardwert abgefüllt
@@ -95,7 +95,7 @@ Als Mitarbeiter kann ich mich am Technologie-Radar-Viewer anmelden, damit ich di
 
 **Akzeptanzkriterien**
 
-* Mittels korrektem Benutzername (E-Mail Adresse) und korrektem Passwort gelange ich zur Technologie-Radar-Administration.
+* Mittels korrektem Benutzername (E-Mail Adresse) und korrektem Passwort gelange ich zum Technologie-Radar-Viewer.
 * Mit nicht korrekte Benutzerdaten (Benutzername / Passworter) kann ich mich nicht anmelden.
 
 ### User Story 7: Technologien anzeigen (Must)
