@@ -18,6 +18,8 @@ Sie werden als Software-Architekt und Software Engineer damit beauftragt die fol
 
 ### Fachliche Anforderungen
 
+Die folgenden fachlichen Anforderungen sind nach der [MoSCoW-Priorisierung](https://de.wikipedia.org/wiki/MoSCoW-Priorisierung) priorisiert.
+
 #### User Story 1: Anmelden Technologie-Radar-Administration (Could)
 
 Als CTO oder Tech-Lead kann ich mich an der Technologie-Radar-Administration anmelden, damit ich Technologien im Technologie-Radar verwalten kann.
