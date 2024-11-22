@@ -85,6 +85,7 @@ Für Ihre Präsentation erhalten Sie eine Timebox von fünf Minuten.
 ## Bewertung
 
 Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentation (30%).
+
 _Hinweis: Verspätete Abgaben haben einen Notenabzug von 0.5 zur Folge. Abgaben die mehr als 24h später erfolgen führen zu einer Modulbewertung `F`_
 
 ### Projekt-Ergebnisse
