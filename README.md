@@ -96,6 +96,5 @@ Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentatio
 ### Präsentation
 
 * Aufbau, Verständlichkeit 30%
-* Präsentationsartefakte 30% (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
+* Präsentationsartefakte 60% (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
 * Einhaltung der Timebox 5 Minuten 10%
-* Beantwortung Fragen 30%
