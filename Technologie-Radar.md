@@ -10,7 +10,9 @@ Als Software-Anbieter möchten Sie den Technologie-Radar als Software as a Servi
 
 * einer **Technologie-Radar-Administration**, in welcher die Technologien vom *CTO* oder einm *Tech-Lead* verwaltet werden können
 * einem **Technologie-Radar-Viewer**, auf welcher der Technologie-Radar resp. die Technologien allen Mitarbeiter eingesehen werden können.
-* einer System-Administration, in welche neue Unternehmen resp. Mandanten erfasst und Personen eingeladen werden können (optional; nicht Teil der Aufgabenstellung)
+ 
+Optionaler Teil (nicht Teil der Aufgabenstellung):
+* einer System-Administration, in welche neue Unternehmen resp. Mandanten erfasst und Personen eingeladen werden können.
 
 Sie werden als Software-Architekt und Software Engineer damit beauftragt die folgenden Anforderungen umzusetzen.
 
