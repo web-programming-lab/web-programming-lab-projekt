@@ -14,9 +14,9 @@ Als Software-Anbieter möchten Sie den Technologie-Radar als Software as a Servi
 Optionaler Teil (nicht Teil der Aufgabenstellung):
 * einer System-Administration, in welche neue Unternehmen resp. Mandanten erfasst und Personen eingeladen werden können.
 
-Sie werden als Software-Architekt und Software Engineer damit beauftragt die folgenden Anforderungen umzusetzen.
-
 ## Anforderungen
+
+Sie werden als Software-Architekt und Software Engineer damit beauftragt die folgenden Anforderungen umzusetzen.
 
 ### Fachliche Anforderungen
 
@@ -41,31 +41,33 @@ Als CTO kann ich eine neue Technologie erfassen, damit ich diese anschliessend p
         * z.B. *ArgoCD*
     * Kategorie (Muss-Feld)
         * z.B. *Tools*
-    * Ring (Optionales-Feld)
+    * Ring (Muss-Feld)
         * z.B. *Trial*
     * Beschreibung Technologie (Muss-Feld)
         * z.B. *Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.*
-    * Beschreibung der Einordnung (Optionales-Feld)
+    * Beschreibung der Einordnung (Muss-Feld)
         * z.B. *Without making a judgment of the GitOps technique, we'd like to talk about Argo CD within the scope of deploying and monitoring applications in Kubernetes environments. Based on its ability to automate the deployment of the desired application state in the specified target environments in Kubernetes and our good experience with troubleshooting failed deployments, verifying logs and monitoring deployment status, we recommend you give Argo CD a try. You can even see graphically what is going on in the cluster, how a change is propagated and how pods are created and destroyed in real time.*    
 * Sofern ein Muss-Feld nicht abgefüllt ist, darf die Technologie nicht abgespeichert werden.
 * Neben den Eingaben müssen folgende Informationen bei der Erfassung einer neuen Technologie hinterlegt werden
-    * Informationen zum Erfasser (Link auf Person)
     * Erfassungsdatum
 
-#### User Story 3: Technologie publizieren (Prio 'Should')
+#### User Story 3: Technologie entwerfen und später publizieren (Prio 'Should')
 
 Als CTO kann ich erfasste, aber noch nicht publizierte, Technologien publizieren, damit diese auf dem Technologie-Radar erscheinen und entsprechned für Mitarbeiter einsehbar werden.
 
 **Akzeptanzkriterien**
 
 * Erfasste, aber noch nicht publizierte Technologien werden speziell gekennzeichnet.
-* Mit Klick auf *Publizieren* können neue Technologien publiziert werden. Bei der Publizierung müssen folgende Eingaben gemacht werden:
-       * Einordnung / Ring (Muss-Feld)
+* Entwürfe müssen folgende Pflichtfelder nicht alle ausgefüllt sein:
+    * Einordnung / Ring 
+    * Beschreibung der Einordnung
+* Mit Klick auf *Publizieren* werden neue Technologien publiziert werden. Bei der Publizierung müssen folgende Eingaben gemacht werden:
+    * Einordnung / Ring (Muss-Feld)
         * z.B. *Trial*
-        * Wenn bereits ein Ring hinterlegt ist, wird dieser als Standardwert abgefüllt
-       * Beschreibung der Einordnung (Muss-Feld)
+    * Beschreibung der Einordnung (Muss-Feld)
         * z.B. *Without making a judgment of the GitOps technique, we'd like to talk about Argo CD within the scope of deploying and monitoring applications in Kubernetes environments. Based on its ability to automate the deployment of the desired application state in the specified target environments in Kubernetes and our good experience with troubleshooting failed deployments, verifying logs and monitoring deployment status, we recommend you give Argo CD a try. You can even see graphically what is going on in the cluster, how a change is propagated and how pods are created and destroyed in real time.*
-* Bei der Publikation wird das Publikationsdatum entsprechend hinterlegt.
+* Neben den Eingaben müssen folgende Informationen bei der Publikation einer Technologie hinterlegt werden
+    * Publikationsdatum.
 
 #### User Story 4: Technologie ändern (Prio 'Should')
 
