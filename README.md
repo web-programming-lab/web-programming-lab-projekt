@@ -22,7 +22,6 @@ Falls Sie einen eigenen Projekt-Vorschlag haben und diesen im Rahmen vom Modul u
 * Kontext (ca. 3 - 5 Sätze)
 * Fachlichkeit als User Stories beschrieben (priorisiert nach dem [MoSCoW-Priorisierung](https://de.wikipedia.org/wiki/MoSCoW-Priorisierung))
 * Angedachter Technologie-Stack
-* Ggf. angedachte Abgrenzungen / Änderungen
 
 ## Projekt-Ergebnisse
 
@@ -76,8 +75,8 @@ Zu den Ergebnissen gehören die Präsentationsartefakte (i.d.R. Slides) ebenfall
 Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Dabei sollen folgende Punkte abgedeckt werden:
 
 * Vorstellung Fachlichkeit (sofern eigene Applikation, oder Zusatzfunktionen zur vorgeschlagenen Aufgabenstellung)
+* Vorgehen / Methodik
 * Architektur des System
-* Vorgehen / Methodik 
 * Softwareartefakte
 
 Für Ihre Präsentation erhalten Sie eine Timebox von fünf Minuten.
