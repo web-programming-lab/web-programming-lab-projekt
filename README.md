@@ -27,8 +27,8 @@ Falls Sie einen eigenen Projekt-Vorschlag haben und diesen im Rahmen vom Modul u
 
 Folgende Ergebnisse werden aus der Projektarbeit erwartet:
 
-* Architekturdokumentation (3 - 5 Seiten)
-* Fazit & Reflexion (1 Seite)
+* Architekturdokumentation
+* Fazit & Reflexion
 * Arbeitsjournal
 * Softwareartefakte
 * Präsentationsartefakte (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
@@ -45,7 +45,7 @@ Im Ergebnis "Fazit & Reflexion" machen Sie die Retrospektive über Ihr Projekt. 
 
 * Was ist gut gelaufen?
 * Wo lagen die Herausforderungen?
-* Was könnten Sie das nächste Mal anders resp. besser machen?
+* Was würden Sie das nächste Mal anders resp. besser machen?
 
 ### Arbeitsjournal
 

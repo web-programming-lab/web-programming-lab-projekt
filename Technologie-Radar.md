@@ -53,7 +53,7 @@ Als CTO kann ich eine neue Technologie erfassen, damit ich diese anschliessend p
 
 #### User Story 3: Technologie entwerfen und später publizieren (Prio 'Should')
 
-Als CTO kann ich erfasste, aber noch nicht publizierte, Technologien publizieren, damit diese auf dem Technologie-Radar erscheinen und entsprechned für Mitarbeiter einsehbar werden.
+Als CT O kann ich erfasste, aber noch nicht publizierte, Technologien publizieren, damit diese auf dem Technologie-Radar erscheinen und entsprechned für Mitarbeiter einsehbar werden.
 
 **Akzeptanzkriterien**
 
@@ -79,7 +79,7 @@ Als CTO kann ich erfasste Technologien ändern, um z.B. fehlerhafte Daten oder n
     * Name (Muss-Feld)
     * Kategorie (Muss-Feld)
     * Beschreibung Technologie (Muss-Feld)
-* Mit dem Speichern wird das Änderungsdatum der Technologie sowie die Person geführt.
+* Mit dem Speichern wird das Änderungsdatum der Technologie hinterlegt.
 
 #### User Story 5: Technologie-Einordnung ändern (Prio 'Should')
 
@@ -91,20 +91,9 @@ Als CTO möchte ich die Einordnung von einer Technologie ändern, um die Relevan
     * Einordnung / Ring (Muss-Feld)
         * z.B. *Adopt*
     * Beschreibung der neuen Einordnung (Muss-Feld)
-* Die History der einzelnen Einordnungsänderungen werden beibehalten.
-* Mit dem Speichern wird das Änderungsdatum der Technologie sowie die Person geführt.
+* Mit dem Speichern wird das Änderungsdatum der Technologie hinterlegt.
 
-
-#### User Story 6: Anmelden am Technologie-Radar-Viewer (Prio 'Could')
-
-Als Mitarbeiter kann ich mich am Technologie-Radar-Viewer anmelden, damit ich die Technologien resp. der Technologie-Radar des Unternehmens einsehen kann.
-
-**Akzeptanzkriterien**
-
-* Mittels korrektem Benutzername (E-Mail Adresse) und korrektem Passwort gelange ich zum Technologie-Radar-Viewer.
-* Mit nicht korrekte Benutzerdaten (Benutzername / Passworter) kann ich mich nicht anmelden.
-
-#### User Story 7: Technologien anzeigen (Prio 'Must')
+#### User Story 6: Technologien anzeigen (Prio 'Must')
 
 Als Mitarbeiter kann ich im Technologie-Radar-Viewer die Technologien resp. der Technologie-Radar einsehen.
 
@@ -116,10 +105,18 @@ Als Mitarbeiter kann ich im Technologie-Radar-Viewer die Technologien resp. der 
 
 **Bemerkung**: Die Technologien müssen nicht als *Radar* abgebildet werden, sondern können auch tabellarisch dargestellt werden.
 
-#### Nicht-Funktionale Anforderungen
+#### User Story 7: Anmelden am Technologie-Radar-Viewer (Prio 'Could')
+
+Als Mitarbeiter kann ich mich am Technologie-Radar-Viewer anmelden, damit ich die Technologien resp. der Technologie-Radar des Unternehmens einsehen kann.
+
+**Akzeptanzkriterien**
+
+* Mittels korrektem Benutzername (E-Mail Adresse) und korrektem Passwort gelange ich zum Technologie-Radar-Viewer.
+* Mit nicht korrekte Benutzerdaten (Benutzername / Passworter) kann ich mich nicht anmelden.
+
+#### Qualitätsanforderungen
 
 * Der **Technologie-Radar-Viewer** soll neben der Desktop-Ansicht, auch für die Mobile-Ansicht optimiert sein.
 * Der **Technologie-Radar-Viewer** soll innert 1s geladen sein.
-* Sämtliche Änderungen an Technologie-Einträgen sollen historisiert sein.
 * Sämtliche Anmeldungen an die **Technologie-Radar-Administration** werden aufgezeichnet.
 
