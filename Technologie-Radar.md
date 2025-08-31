@@ -116,6 +116,7 @@ Als Mitarbeiter kann ich im Technologie-Radar-Viewer die Technologien resp. der 
 
 * Der **Technologie-Radar-Viewer** soll neben der Desktop-Ansicht, auch für die Mobile-Ansicht optimiert sein.
 * Der **Technologie-Radar-Viewer** soll innert 1s geladen sein.
-* Sämtliche Änderungen an Technologie-Einträgen sollen historisiert sein.
+* Sämtliche Änderungen an Technologie-Einträgen sollen **historisiert** sein.
 * Sämtliche Anmeldungen an die **Technologie-Radar-Administration** werden aufgezeichnet.
+* Die Funktionalitäten sollen mittels sinnvollen automatisierten **Unit/Integration-Tests** überprüft werden.
 
