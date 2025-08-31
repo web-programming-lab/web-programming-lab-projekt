@@ -22,14 +22,13 @@ Falls Sie einen eigenen Projekt-Vorschlag haben und diesen im Rahmen vom Modul u
 * Kontext (ca. 3 - 5 Sätze)
 * Fachlichkeit als User Stories beschrieben (priorisiert nach dem [MoSCoW-Priorisierung](https://de.wikipedia.org/wiki/MoSCoW-Priorisierung))
 * Angedachter Technologie-Stack
-* Ggf. angedachte Abgrenzungen / Änderungen
 
 ## Projekt-Ergebnisse
 
 Folgende Ergebnisse werden aus der Projektarbeit erwartet:
 
-* Architekturdokumentation (3 - 5 Seiten)
-* Fazit & Reflexion (1 Seite)
+* Architekturdokumentation
+* Fazit & Reflexion
 * Arbeitsjournal
 * Softwareartefakte
 * Präsentationsartefakte (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
@@ -46,7 +45,7 @@ Im Ergebnis "Fazit & Reflexion" machen Sie die Retrospektive über Ihr Projekt. 
 
 * Was ist gut gelaufen?
 * Wo lagen die Herausforderungen?
-* Was könnten Sie das nächste Mal anders resp. besser machen?
+* Was würden Sie das nächste Mal anders resp. besser machen?
 
 ### Arbeitsjournal
 
@@ -76,8 +75,8 @@ Zu den Ergebnissen gehören die Präsentationsartefakte (i.d.R. Slides) ebenfall
 Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Dabei sollen folgende Punkte abgedeckt werden:
 
 * Vorstellung Fachlichkeit (sofern eigene Applikation, oder Zusatzfunktionen zur vorgeschlagenen Aufgabenstellung)
+* Vorgehen / Methodik
 * Architektur des System
-* Vorgehen / Methodik 
 * Softwareartefakte
 
 Für Ihre Präsentation erhalten Sie eine Timebox von fünf Minuten.
@@ -85,6 +84,8 @@ Für Ihre Präsentation erhalten Sie eine Timebox von fünf Minuten.
 ## Bewertung
 
 Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentation (30%).
+
+_Hinweis: Verspätete Abgaben haben einen Notenabzug von 0.5 zur Folge. Abgaben die mehr als 24h später erfolgen führen zu einer Modulbewertung `F`_
 
 ### Projekt-Ergebnisse
 
@@ -96,6 +97,5 @@ Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentatio
 ### Präsentation
 
 * Aufbau, Verständlichkeit 30%
-* Präsentationsartefakte 30% (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
+* Präsentationsartefakte 60% (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
 * Einhaltung der Timebox 5 Minuten 10%
-* Beantwortung Fragen 30%
