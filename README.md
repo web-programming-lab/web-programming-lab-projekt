@@ -10,7 +10,7 @@ Das Projekt im Modul Web Programming Lab ermöglicht es, die gelernten Inhalte a
 
 ### Technologie-Radar
 
-Falls Sie das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen möchten, bringen Sie uns bis Mittwoch, 18:00 folgende Informationen:
+Falls Sie das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen möchten, bringen Sie mir bis Mittwoch, 18:00 folgende Informationen:
 
 * Angedachter Technologie-Stack
 * Ggf. angedachte Abgrenzungen / Änderungen
@@ -31,7 +31,6 @@ Folgende Ergebnisse werden aus der Projektarbeit erwartet:
 * Fazit & Reflexion
 * Arbeitsjournal
 * Softwareartefakte
-* Präsentationsartefakte (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
 
 ### Architekturdokumentation
 
@@ -62,40 +61,15 @@ Folgendes sollte es mindestens beinhalten:
 
 Geben Sie die Software als git Repository ab (z.B. Link auf GitHub, GitLab oder Bitbucket Git Repository).
 
-Versuchen Sie am Ende des Projektes laufende Software zu präsentieren. 
-
 Falls Ihnen dies ggf. nicht gelingt, halten Sie das "Warum" im Fazit & Reflexion fest.
-
-### Präsentationsartefakte
-
-Zu den Ergebnissen gehören die Präsentationsartefakte (i.d.R. Slides) ebenfalls dazu.
-
-## Präsentation
-
-Jeder Modulteilnehmer präsentiert seine Projektergebnisse. Dabei sollen folgende Punkte abgedeckt werden:
-
-* Vorstellung Fachlichkeit (sofern eigene Applikation, oder Zusatzfunktionen zur vorgeschlagenen Aufgabenstellung)
-* Vorgehen / Methodik
-* Architektur des System
-* Softwareartefakte
-
-Für Ihre Präsentation erhalten Sie eine Timebox von fünf Minuten.
 
 ## Bewertung
 
-Die Modulnote ergibt sich aus: Projekt-Ergebnisse (70%) und Projekt-Präsentation (30%).
+Die Modulnote ergibt sich aus folgenden Projekt-Ergebnissen
+
+* Softwareartefakte 50%
+* Architekturdokumentation 30%
+* Fazit & Reflexion 15%
+* Arbeitsjournal 5%
 
 _Hinweis: Verspätete Abgaben haben einen Notenabzug von 0.5 zur Folge. Abgaben die mehr als 24h später erfolgen führen zu einer Modulbewertung `F`_
-
-### Projekt-Ergebnisse
-
-* Architekturdokumentation 35%
-* Fazit & Reflexion 20%
-* Arbeitsjournal 10%
-* Softwareartefakte 35%
-
-### Präsentation
-
-* Aufbau, Verständlichkeit 30%
-* Präsentationsartefakte 60% (Abgabe nach der Präsentation, Inhalt für 5 Minuten)
-* Einhaltung der Timebox 5 Minuten 10%
