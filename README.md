@@ -6,7 +6,7 @@ Das Projekt im Modul Web Programming Lab ermöglicht es, die gelernten Inhalte a
 
 * Das Projekt wird in **Einzelarbeit** erarbeitet.
 * Sie können eigene Projekt-Vorschläge bringen oder das vorgeschlagene Projekt ["Technologie-Radar"](Technologie-Radar.md) umsetzen.
-* Sie sollten ca. 60h in das Projekt investieren (Implementierung, Dokumentation, Präsentation).
+* Sie sollten ca. 60h in das Projekt investieren (Implementierung, Dokumentation).
 
 ### Technologie-Radar
 
